@@ -7,7 +7,7 @@ homepage:
 logo:
   mobile: images/logo/logo-mobile.svg
   desktop: images/scientific-owl.png
-  desktop_height: 36px
+  desktop_height: 70px
 footer:
   copyright_text: >-
     Free Jekyll theme by <a class="zerostatic"
